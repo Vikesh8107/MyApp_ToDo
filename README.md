@@ -12,8 +12,8 @@ This repository contains the frontend implementation of the BitCoin Saving Andro
 1. Clone the repository:
 
    ```bash
-   git clone
-   cd hiring_challenge/frontend
+   git clone https://github.com/Vikesh8107/MyApp_ToDo.git
+   cd MyApp_ToDo
    ```
 
 2. Install dependencies:
@@ -49,8 +49,8 @@ Include screenshots of the app in action.
 
 ## Contributors
 
-- Your Name
-- Your Email
+- Your Name : Vikesh Laharpure
+- Your Email : vikeshlaharpure@gmail.com
 ```
 
 Feel free to customize the content based on your specific implementation details. The README provides a starting point for users to set up and run the frontend of your BitCoin Saving app.
