@@ -50,7 +50,7 @@ Include screenshots of the app in action.
 ## Contributors
 
 - Your Name : Vikesh Laharpure
-- Your Email : vikeshlaharpure@gmail.com
+- Your Email : vikeshlaharpure999@gmail.com
 ```
 
 Feel free to customize the content based on your specific implementation details. The README provides a starting point for users to set up and run the frontend of your BitCoin Saving app.
