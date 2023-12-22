@@ -1,4 +1,3 @@
-```markdown
 # BitCoin Saving Frontend
 
 This repository contains the frontend implementation of the BitCoin Saving Android app.
