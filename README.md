@@ -43,6 +43,9 @@ This repository contains the frontend implementation of the BitCoin Saving Andro
 <!-- Add GIF here -->
 ![App Demo](https://github.com/Vikesh8107/MyApp_ToDo/blob/master/assets/WhatsApp%20Video%202023-12-22%20at%2011.53.17%20PM.gif)
 
+<!-- Add GIF here with reduced size -->
+<img src="(https://github.com/Vikesh8107/MyApp_ToDo/blob/master/assets/WhatsApp%20Video%202023-12-22%20at%2011.53.17%20PM.gif)" alt="App Demo" width="400"/>
+
 ## Usage Guidelines
 
 - Open the app in your web browser and start managing your tasks.
