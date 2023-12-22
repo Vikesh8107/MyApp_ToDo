@@ -1,13 +1,7 @@
-Certainly! Here's the README template for the frontend:
-
-### Frontend README
-
 ```markdown
 # BitCoin Saving Frontend
 
 This repository contains the frontend implementation of the BitCoin Saving Android app.
-
-
 
 ## Setup Instructions
 
@@ -40,11 +34,9 @@ This repository contains the frontend implementation of the BitCoin Saving Andro
    npm start
    ```
 
-<!-- Add GIF here -->
-![App Demo](https://github.com/Vikesh8107/MyApp_ToDo/blob/master/assets/WhatsApp%20Video%202023-12-22%20at%2011.53.17%20PM.gif)
+### App Demo
 
-<!-- Add GIF here with reduced size -->
-<img src="(https://github.com/Vikesh8107/MyApp_ToDo/blob/master/assets/WhatsApp%20Video%202023-12-22%20at%2011.53.17%20PM.gif)" alt="App Demo" width="400"/>
+<img src="https://github.com/Vikesh8107/MyApp_ToDo/blob/master/assets/WhatsApp%20Video%202023-12-22%20at%2011.53.17%20PM.gif" alt="App Demo" width="200"/>
 
 ## Usage Guidelines
 
@@ -57,6 +49,5 @@ Include screenshots of the app in action.
 
 ## Contributors
 
-- Your Name : Vikesh Laharpure
-- Your Email : vikeshlaharpure999@gmail.com
-
+- Your Name: Vikesh Laharpure
+- Your Email: vikeshlaharpure999@gmail.com
