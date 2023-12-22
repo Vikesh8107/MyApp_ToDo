@@ -8,7 +8,7 @@ Certainly! Here's the README template for the frontend:
 This repository contains the frontend implementation of the BitCoin Saving Android app.
 
 <!-- Add GIF here -->
-![App Demo](URL_TO_YOUR_GIF)
+![App Demo]([URL_TO_YOUR_GIF](https://github.com/Vikesh8107/MyApp_ToDo/blob/master/assets/WhatsApp%20Video%202023-12-22%20at%2011.53.17%20PM.gif))
 
 ## Setup Instructions
 
