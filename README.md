@@ -7,6 +7,9 @@ Certainly! Here's the README template for the frontend:
 
 This repository contains the frontend implementation of the BitCoin Saving Android app.
 
+<!-- Add GIF here -->
+![App Demo](URL_TO_YOUR_GIF)
+
 ## Setup Instructions
 
 1. Clone the repository:
@@ -51,6 +54,4 @@ Include screenshots of the app in action.
 
 - Your Name : Vikesh Laharpure
 - Your Email : vikeshlaharpure999@gmail.com
-```
 
-Feel free to customize the content based on your specific implementation details. The README provides a starting point for users to set up and run the frontend of your BitCoin Saving app.
